@@ -1,0 +1,6 @@
+c:\users\zergj\onedrive\documents\visual studio 2015\Projects\payroll v2\payroll v2\bin\Debug\payroll v2.exe.config
+c:\users\zergj\onedrive\documents\visual studio 2015\Projects\payroll v2\payroll v2\bin\Debug\payroll v2.exe
+c:\users\zergj\onedrive\documents\visual studio 2015\Projects\payroll v2\payroll v2\bin\Debug\payroll v2.pdb
+c:\users\zergj\onedrive\documents\visual studio 2015\Projects\payroll v2\payroll v2\obj\Debug\payroll v2.csprojResolveAssemblyReference.cache
+c:\users\zergj\onedrive\documents\visual studio 2015\Projects\payroll v2\payroll v2\obj\Debug\payroll v2.exe
+c:\users\zergj\onedrive\documents\visual studio 2015\Projects\payroll v2\payroll v2\obj\Debug\payroll v2.pdb

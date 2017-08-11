@@ -1,0 +1,11 @@
+PAYSLIP FOR APR 1994
+====================
+Name of Staff: Mike
+Hours Worked: 40
+
+Basic Pay: $2,000.00
+Allowance: $0.00
+
+====================
+Total Pay: $2,000.00
+====================
